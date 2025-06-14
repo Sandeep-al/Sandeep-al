@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm SANDEEP!
+# 👋 Hey , I'm SANDEEP!
 
 🎓 **Undergraduate @ IIIT Delhi**  
 🎯 Pursuing B.Tech in Computer Science and Biosciences  
