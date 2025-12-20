@@ -16,13 +16,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/Asym_ptotic/)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/leetcode/?username=Asym_ptotic&theme=tokyonight&hide_border=true" width="400" />
+  <h2>🚀 Asymptotic Growth </h2>
+  <a href="https://leetcode.com/u/Asym_ptotic/">
+    <img src="https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Source+Code+Pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-385_Solved-orange?style=for-the-badge&logo=leetcode" />
 </div>
-
-[![LeetCode Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asym_ptotic&theme=black-ice&hide_border=true)](https://leetcode.com/u/Asym_ptotic/)
-
 
 
