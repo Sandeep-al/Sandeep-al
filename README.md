@@ -21,7 +21,7 @@
 <div align="center">
   
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats" />
   </a>
   
   <br/>
