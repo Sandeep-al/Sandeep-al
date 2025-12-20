@@ -16,4 +16,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
+## 👨‍💻 Competitive Programming Profile
+
+<div align="center">
+  
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats" />
+  </a>
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/LeetCode-Guardian-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=cplusplus" />
+
+</div>
+
+
 
