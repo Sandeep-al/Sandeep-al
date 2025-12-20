@@ -16,20 +16,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 👨‍💻 Competitive Programming Profile
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/u/Asym_ptotic/)
 
 <div align="center">
-  
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Source+Code+Pro" alt="LeetCode Stats" />
-  </a>
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/LeetCode-Guardian-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=cplusplus" />
-
+  <img src="https://github-readme-stats.vercel.app/api/leetcode/?username=Asym_ptotic&theme=tokyonight&hide_border=true" width="400" />
 </div>
+
+[![LeetCode Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asym_ptotic&theme=black-ice&hide_border=true)](https://leetcode.com/u/Asym_ptotic/)
 
 
 
