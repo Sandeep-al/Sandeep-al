@@ -1,29 +1,69 @@
-# 👋 Hey , I'm SANDEEP!
+# Sandeep Kumar
 
-🎓 **Undergraduate @ IIIT Delhi**  
-🎯 Pursuing B.Tech in Computer Science and Biosciences  
-  
+Computer Science undergraduate at IIIT Delhi, passionate about software development, problem solving, and building practical applications.
+
 ---
 
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=%232C2C2C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 About Me
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* 🎓 B.Tech in Computer Science and Biosciences @ IIIT Delhi
+* 💻 Interested in Software Engineering, Full Stack Development, and Systems Programming
+* 🌱 Currently exploring scalable backend systems and modern web technologies
+* ⚡ Strong foundation in Data Structures & Algorithms
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+* Data Structures & Algorithms
+* Backend Development
+* Software Engineering
+* Open Source Contributions
+
+---
+
+## 📌 Featured Projects
+
+### RISC-V Assembler & Simulator
+
+Built a custom assembler and instruction-level simulator supporting a subset of the RISC-V ISA, including machine code generation, execution tracing, and memory simulation.
+
+### Website Audit Platform
+
+Developing tools focused on SEO, GEO, and website performance auditing.
+
+---
+
+## 🧩 Problem Solving
 
 <div align="center">
-  <h2>🚀 Asymptotic Growth </h2>
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcard.jacoblin.cool/Asym_ptotic?theme=dark&font=Source+Code+Pro&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-385_Solved-orange?style=for-the-badge&logo=leetcode" />
+
+<a href="https://leetcode.com/u/Asym_ptotic/">
+  <img src="https://img.shields.io/badge/LeetCode-Asym__ptotic-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
 </div>
-
-
