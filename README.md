@@ -46,24 +46,6 @@ Computer Science undergraduate at IIIT Delhi, passionate about software developm
 
 ---
 
-## 📌 Featured Projects
+## 🔗 Profiles
 
-### RISC-V Assembler & Simulator
-
-Built a custom assembler and instruction-level simulator supporting a subset of the RISC-V ISA, including machine code generation, execution tracing, and memory simulation.
-
-### Website Audit Platform
-
-Developing tools focused on SEO, GEO, and website performance auditing.
-
----
-
-## 🧩 Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Asym_ptotic/">
-  <img src="https://img.shields.io/badge/LeetCode-Asym__ptotic-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-</div>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Asym__ptotic-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Asym_ptotic/)
