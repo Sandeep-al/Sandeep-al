@@ -53,29 +53,28 @@ Computer Science undergraduate at IIIT Delhi, passionate about software developm
 # 🧩 LeetCode Badges
 
 <p align="center">
-  <!-- 2026 100 Days Badge -->
   <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2026-100.gif" height="150" alt="100 Days Badge 2026"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2026-100.gif" height="150" alt="2026 100 Days"/>
   </a>
-
-  <!-- 2026 50 Days Badge -->
   <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" height="150" alt="50 Days Badge 2026"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" height="150" alt="2026 50 Days"/>
   </a>
-
-  <!-- 2025 100 Days Badge -->
   <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="150" alt="100 Days Badge 2025"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="150" alt="2025 100 Days"/>
   </a>
-
-  <!-- 2025 50 Days Badge -->
   <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="150" alt="50 Days Badge 2025"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="150" alt="2025 50 Days"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- May 2026 Monthly Badge -->
+  <a href="https://leetcode.com/u/Asym_ptotic/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2026-5.gif" height="130" alt="May 2026"/>
+  </a>
+  <a href="https://leetcode.com/u/Asym_ptotic/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2026-6.gif" height="130" alt="June 2026"/>
+  </a>
+</p>
   <a href="https://leetcode.com/u/Asym_ptotic/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2026-5.gif" height="130" alt="May 2026 Badge"/>
   </a>
