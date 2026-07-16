@@ -50,31 +50,3 @@ Computer Science undergraduate at IIIT Delhi, passionate about software developm
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Asym__ptotic-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Asym_ptotic/)
 
-# 🧩 LeetCode Badges
-
-<p align="center">
-  <!-- 2026 Badges -->
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2026-100.gif" height="150" alt="2026 100 Days"/>
-  </a>
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2026-50.gif" height="150" alt="2026 50 Days"/>
-  </a>
-  <!-- 2025 Badges -->
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2025-100.gif" height="150" alt="2025 100 Days"/>
-  </a>
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2025-50.gif" height="150" alt="2025 50 Days"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Monthly Medals -->
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2026-5.gif" height="130" alt="May 2026"/>
-  </a>
-  <a href="https://leetcode.com/u/Asym_ptotic/">
-    <img src="https://leetcode.com/static_assets/marketing/2026-6.gif" height="130" alt="June 2026"/>
-  </a>
-</p>
